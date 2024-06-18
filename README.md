@@ -1,6 +1,6 @@
-# Gemini Clone
+# Gemini 2.0
 
-Gemini Clone is a project aimed at replicating the functionality of Gemini, powered by the Google Gemini API, using React and CSS.
+Gemini 2.0 is a project aimed at replicating the functionality of Gemini, powered by the Google Gemini API, using React and CSS.
 
 ## Table of Contents
 
@@ -38,4 +38,4 @@ This project introduces a React-based web application that functions as a clone 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iamakashpc/Gemini-Clone.git
+   git clone https://github.com/mohdhamzarehman/Gemini-2.0.git
